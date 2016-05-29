@@ -1,0 +1,12 @@
+PODS:
+  - MIBadgeButton-Swift (0.4)
+
+DEPENDENCIES:
+  - MIBadgeButton-Swift
+
+SPEC CHECKSUMS:
+  MIBadgeButton-Swift: b5d07924904c84bcb8e8fe3c3131b8499f28930c
+
+PODFILE CHECKSUM: 622b47b68e16b31d3d7f7aae0317ed48ef429b92
+
+COCOAPODS: 1.0.0
